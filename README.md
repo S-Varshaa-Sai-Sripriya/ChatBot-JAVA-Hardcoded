@@ -1,4 +1,4 @@
-ChatBot-JAVA (Hardcoded)
+## ChatBot-JAVA (Hardcoded)
 
 This is a simple chatting engine with ChatBot. The idea is to build a simple system where the user can chat in the terminal.
 
